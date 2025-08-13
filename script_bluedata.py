@@ -12,7 +12,7 @@ Instruções de uso:
 2. Execute o script: python script_bluedata.py
 3. Os arquivos CSV serão gerados na pasta especificada
 """
-
+"teste teste teste"
 import paramiko
 import os
 import csv
